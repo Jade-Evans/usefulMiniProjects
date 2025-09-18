@@ -1,4 +1,4 @@
-🛒 shoppingList
+## 🛒 shoppingList
 Basic DOM-based shopping list app with dynamic item handling. Focused on JavaScript fundamentals, event listeners, and clean UI structure.
 Things to Practice / Remember
 - focus() method: used to return cursor to input field after adding an item—new to me and useful for improving UX.
@@ -10,11 +10,12 @@ Ideas for Improvement
 - Include animations for item addition/removal to enhance UX.
 - Extend functionality to create a to-do list or categorized items.
 - Refactor code for readability and modularity.
-TOP Reference Section
-The Odin Project – Foundations Course
-Reference Module: [DOM Manipulation and Events – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#dom-manipulation-and-events)
 
-➕ calculator
+# TOP Reference Section
+*Learning Resource*: The Odin Project – Foundations Course
+*Reference Module:* [DOM Manipulation and Events – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#dom-manipulation-and-events)
+
+## ➕ calculator
 Project scaffold for a basic calculator app. Will explore DOM manipulation, user input handling, and logic flow.
 Things to Practice / Remember
 - Plan layout and button structure before coding.
@@ -25,8 +26,9 @@ Ideas for Improvement
 - Style buttons and display for better usability.
 - Explore floating point precision handling.
 - Add memory/history feature for recent calculations.
-TOP Reference Section
-The Odin Project – Foundations Course
-Reference Module: [Calculator Project – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#project-calculator)
+
+# TOP Reference Section
+*Learning Resource:* The Odin Project – Foundations Course
+*Reference Module:* [Calculator Project – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#project-calculator)
 
 
