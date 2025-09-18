@@ -12,8 +12,7 @@ Ideas for Improvement
 - Refactor code for readability and modularity.
 TOP Reference Section
 The Odin Project – Foundations Course
-Module: DOM Manipulation and Events
-Link to module
+Reference Module: [DOM Manipulation and Events – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#dom-manipulation-and-events)
 
 ➕ calculator
 Project scaffold for a basic calculator app. Will explore DOM manipulation, user input handling, and logic flow.
@@ -28,6 +27,6 @@ Ideas for Improvement
 - Add memory/history feature for recent calculations.
 TOP Reference Section
 The Odin Project – Foundations Course
-Module: Calculator Project
-Link to module
+Reference Module: [Calculator Project – The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#project-calculator)
+
 
